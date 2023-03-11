@@ -10,8 +10,8 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #444;
-  background-color: #f5f5f5;
-  background-image: "photo-1515643395264-3f8c19a2dc77.avif" ;
+  
+  background-image: background.jpg;
   
 }
 
@@ -132,7 +132,7 @@ header a {
 
 /* Contact Styles */
 #contact {
-  background-color: #242582;
+  background-color: #ffff;
   padding: 2rem;
 }
 
